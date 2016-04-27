@@ -1,2 +1,27 @@
+/*Color Palette*/
+.color-1 {
+background: red;
+}
 
+.color-2 {
+background: white;
+}
 
+.color-3 {
+background: blue;
+}
+
+.color-4 {
+background: black;
+}
+
+/*Textures and Patterns*/
+
+.pattern-1 {
+background: url("http://previews.123rf.com/images/tintin75/tintin751502/tintin75150200008/36463579-A-retro-patriotic-banner-with-a-grunge-texture-for-an-invitation-card-s-background--Stock-Vector.jpg") 100px 100px;
+background-size: cover;
+}
+
+.pattern-2 {
+    
+}
