@@ -33,17 +33,29 @@ background-size: cover;
         5px 5px 0 red,
         10px 10px 0 white
         15px 15px 0 blue;
+    height: 300px;
+    width: 200px;
+}
+
+.imagery-2 img {
+    height: 300px;
+    width: 200px;
+}
+
+.imagery-3 img {
+    width: 400px;
+    height: 300px;
 }
 
 /*Icons*/
 .icon-1 {
     border: none;
-}
-
-.icon-2 {
     background: url("../img/iconmonstr-smartphone-4-120.png");
     background-size: cover;
 }
+
+
+
 
 /*Navigation*/
 
