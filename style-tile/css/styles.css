@@ -26,6 +26,9 @@ background-size: cover;
     background: url("../img/American-Flag-Background-Texture-273494.jpg");
 }
 
+.pattern-3 {
+    background: url("../img/pattern-3.jpg");
+}
 
 /*Images*/
 .imagery-1 img {
@@ -48,14 +51,38 @@ background-size: cover;
 }
 
 /*Icons*/
-.icon-1 {
+.icon-1 img {
     border: none;
-    background: url("../img/iconmonstr-smartphone-4-120.png");
     background-size: cover;
+    height: 100px;
+    width: 100px;
 }
 
+.icon-1 {
+    border: none;
+}
 
+.icon-2 img {
+    border: none;
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+}
 
+.icon-2 {
+    border: none;
+}
+
+.icon-3 img {
+    border: none;
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+}
+
+.icon-3 {
+    border: none;
+}
 
 /*Navigation*/
 
