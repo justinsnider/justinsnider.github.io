@@ -4,6 +4,7 @@
 
 h1 {
     text-align: center;
+    margin: 3em;
 }
 
 
@@ -13,11 +14,21 @@ img {
     margin: 0 auto;
     height: 400px;
     width: 250px;
-    
 }
 
 p1 {
     display: block;
     margin-top: 20px;
     text-align: center;
+    margin: 3em;
+}
+
+hr {
+    display: block; 
+    margin: 5em;
+    height: 10px;
+    border-style: inset;
+    border-width: 3px;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
 }
