@@ -8,12 +8,17 @@ h1 {
     color: red;
 }
 
+#BioPic {
+    display: block;
+    height: 400px;
+    width: 250px;
+}
 
 
 img {
     display: inline;
     margin: 0 auto;
-    height: 400px;
+    height: 250px;
     width: 250px;
 }
 
