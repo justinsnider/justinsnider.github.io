@@ -11,7 +11,7 @@ h1 {
 
 
 img {
-    display: block;
+    display: inline;
     margin: 0 auto;
     height: 400px;
     width: 250px;
