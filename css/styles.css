@@ -1,4 +1,8 @@
-
+div {
+    height: 100px;
+    width: 100%;
+    background-color: black;
+}
 
 
 
@@ -13,14 +17,57 @@ h1 {
     height: 400px;
     width: 250px;
 }
+#nav {
+    list-style-type: none;
+}
 
+
+#nav li {
+    float: left;
+    margin-right: 20px;
+    color: white;
+}
 
 img {
-    display: inline;
+    display: inline-block;
     margin: 0 auto;
     height: 250px;
-    width: 250px;
+    width: 250px; 
 }
+
+#portfolio {
+    list-style-type: none;
+}
+
+#portfolio li {
+    float: left; 
+}
+
+#rollie {
+    border: 5px solid black; 
+}
+
+#pulp {
+    border: 5px solid black; 
+}
+
+#pinball {
+    border: 5px solid black; 
+}
+
+#megaman {
+    border: 5px solid black; 
+}
+
+#logo {
+    border: 5px solid black; 
+}
+
+#lebowski {
+    border: 5px solid black; 
+}
+
+
 
 p1 {
     display: block;
