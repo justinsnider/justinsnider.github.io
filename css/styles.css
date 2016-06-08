@@ -1,4 +1,9 @@
-
+ul li {
+    align: center;
+    color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+}
 
 
 
@@ -10,12 +15,43 @@
     background-color: black;
 }
 
+#navdiv li {
+    color: white; 
+    margin-left: 5px;
+    margin-right: 5px;
+}
 #home {
-    background-color: white; 
-    margin-bottom: 100px; 
+    background-color: black; 
+    height: 600px; 
+    margin-bottom: 50px; 
     margin-left: 50px; 
     margin-right: 50px; 
 }
+
+#about {
+    background-color: black;
+    margin-bottom: 50px; 
+    margin-left: 50px;
+    margin-right: 50px; 
+    height: 225px;
+}
+
+#resume {
+    background-color: black; 
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 400px;
+}
+
+#portfoliodiv {
+    background-color: black; 
+    margin-bottom: 50px; 
+    margin-left: 50px; 
+    margin-right: 50px;
+    height: 700px; 
+}
+
 
 
 
@@ -44,14 +80,16 @@ h1 {
 img {
     display: inline-block;
     margin: 0 auto;
-    height: 250px;
-    width: 250px; 
+    height: 275px;
+    width: 275px; 
     align: center; 
 }
 
 
 #portfolio {
     list-style-type: none;
+    margin-left: 50px; 
+    margin-right: 50px; 
 }
 
 #portfolio li {
@@ -63,28 +101,28 @@ img {
 }
 
 #rollie {
-    border: 5px solid black; 
+    border: 5px solid red; 
 }
 
 
 #pulp {
-    border: 5px solid black; 
+    border: 5px solid blue; 
 }
 
 #pinball {
-    border: 5px solid black; 
+    border: 5px solid red; 
 }
 
 #megaman {
-    border: 5px solid black; 
+    border: 5px solid blue; 
 }
 
 #logo {
-    border: 5px solid black; 
+    border: 5px solid red; 
 }
 
 #lebowski {
-    border: 5px solid black; 
+    border: 5px solid blue; 
 }
 
 
@@ -94,6 +132,7 @@ p1 {
     margin-top: 20px;
     text-align: center;
     margin: 3em;
+    color: white;
 }
 
 hr {
