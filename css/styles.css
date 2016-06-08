@@ -1,3 +1,10 @@
+body {
+    background-image: url(../img/background_pattern.jpg)
+}
+
+
+
+
 ul li {
     align: center;
     color: white;
@@ -147,6 +154,7 @@ hr {
 
 h2 {
     display: block;
-    text-align: center;
+    text-align: left;
+    margin-left: 90px;
     color: blue;
 }
