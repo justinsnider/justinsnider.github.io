@@ -42,6 +42,10 @@ ul li {
     height: 100%;
 }
 
+#rage {
+    margin-left: 75px;
+}
+
 #resume {
     background-color: black; 
     margin-bottom: 50px;
