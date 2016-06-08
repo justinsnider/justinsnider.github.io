@@ -46,6 +46,16 @@ ul li {
     margin-left: 75px;
 }
 
+#boogie {
+    width: 275px;
+    height: 325px; 
+}
+
+#mickey {
+    width: 275px;
+    height: 350px; 
+}
+
 #resume {
     background-color: black; 
     margin-bottom: 50px;
