@@ -7,8 +7,8 @@ body {
 
 ul li {
     color: white;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 
@@ -23,27 +23,27 @@ ul li {
 
 #nav li {
     color: white; 
-    margin-left: 5px;
-    margin-right: 5px;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 #home {
     background-color: black; 
     height: 600px; 
     margin-bottom: 50px; 
-    margin-left: 50px; 
-    margin-right: 50px; 
+    margin-left: 5%; 
+    margin-right: 5%; 
 }
 
 #about {
     background-color: black;
     margin-bottom: 50px; 
-    margin-left: 50px;
-    margin-right: 50px; 
+    margin-left: 5%;
+    margin-right: 5%; 
     height: 100%;
 }
 
 #rage {
-    margin-left: 75px;
+    margin-left: 10%;
 }
 
 #boogie {
@@ -54,21 +54,23 @@ ul li {
 #mickey {
     width: 275px;
     height: 350px; 
+    margin-right: 10%;
+    
 }
 
 #resume {
     background-color: black; 
     margin-bottom: 50px;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 5%;
+    margin-right: 5%;
     height: 400px;
 }
 
 #portfoliodiv {
     background-color: black; 
     margin-bottom: 50px; 
-    margin-left: 50px; 
-    margin-right: 50px;
+    margin-left: 5%; 
+    margin-right: 5%;
     height: 700px; 
 }
 
@@ -94,7 +96,7 @@ h1 {
 #nav li {
     float: left;
     margin-right: 20px;
-    color: blue;
+    
 }
 
 img {
@@ -106,10 +108,11 @@ img {
 }
 
 
+
 #portfolio {
     list-style-type: none;
-    margin-left: 50px; 
-    margin-right: 50px; 
+    margin-left: 5%; 
+    margin-right: 5%; 
 }
 
 #portfolio li {
